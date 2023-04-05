@@ -1,0 +1,92 @@
+{"frames": [
+  {
+    "filename": "map",
+    "frame": {"x":0,"y":0,"w":226,"h":248},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":226,"h":248},
+    "sourceSize": {"w":226,"h":248},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "pacman",
+    "frame": {"x":229,"y":0,"w":48,"h":64},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":48,"h":64},
+    "sourceSize": {"w":48,"h":64},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "ghosts",
+    "frame": {"x":229,"y":64,"w":128,"h":64},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":128,"h":64},
+    "sourceSize": {"w":128,"h":64},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "scared-ghost",
+    "frame": {"x":357,"y":64,"w":64,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+    "sourceSize": {"w":64,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "eaten-ghost",
+    "frame": {"x":357,"y":80,"w":64,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+    "sourceSize": {"w":64,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "fruit",
+    "frame": {"x":277,"y":48,"w":64,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+    "sourceSize": {"w":64,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "bluePoints",
+    "frame": {"x":229,"y":128,"w":64,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+    "sourceSize": {"w":64,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "redPoints",
+    "frame": {"x":229,"y":144,"w":64,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+    "sourceSize": {"w":64,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "point",
+    "frame": {"x":226,"y":232,"w":5,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":5,"h":16},
+    "sourceSize": {"w":5,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  },
+  {
+    "filename": "powerUp",
+    "frame": {"x":231,"y":232,"w":12,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+    "sourceSize": {"w":12,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+  }
+]}

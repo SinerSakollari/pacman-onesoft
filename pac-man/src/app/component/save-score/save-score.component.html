@@ -1,0 +1,13 @@
+<h1 mat-dialog-title>Score: {{finalScore}}</h1>
+<div mat-dialog-content>
+  <p>Enter your username:</p>
+  <mat-form-field appearance="fill">
+    <mat-label>Username</mat-label>
+    <input matInput [(ngModel)]="userName">
+  </mat-form-field>
+</div>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Cancel</button>
+  <button mat-button (click)="saveUser()" cdkFocusInitial>Install</button>
+</mat-dialog-actions>
+
